@@ -30,3 +30,22 @@
 - 버전이 바뀌거나 링크가 깨져 작동하지 않는 경우, 알려 주시면 수정하겠습니다.
 - 연습문제와 assignment의 답을 비롯한 수업용 자료가 필요하신 분은 이메일로 연락주시기 바랍니다.
 - Contact: eunyu1031@gmail.com
+
+
+Copyright (c) <2021> <Eun Yu>
+
+This software is provided 'as-is', without any express or implied
+  warranty. In no event will the authors be held liable for any damages
+arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not
+   claim that you wrote the original software. If you use this software
+   in a product, an acknowledgment in the product documentation would be
+   appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
