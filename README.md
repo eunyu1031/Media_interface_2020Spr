@@ -1,5 +1,5 @@
 # Data cleaning & visualization
-#### Last update 2021-05-30, 노트북 자료 업데이트 중
+#### Last update 2021-06-13, 자료 업데이트 중
 
 이 페이지에서는 파이썬 기반 데이터 클리닝 및 시각화 관련 자료를 찾아보실 수 있습니다.
 
