@@ -32,7 +32,10 @@
 - Contact: eunyu1031@gmail.com
 
 
-Copyright (c) <2021> <Eun Yu>
+
+
+
+Copyright (c) 2021 Eun Yu
 
 This software is provided 'as-is', without any express or implied
   warranty. In no event will the authors be held liable for any damages
